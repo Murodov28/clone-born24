@@ -1,0 +1,37 @@
+{
+	"loading": "Yuklanmoqda...",
+	"pages": {
+		"home": "Bosh sahifa",
+		"venueDetails": "Joy tafsilotlari",
+		"auth": "Kirish / Ro'yxatdan o'tish",
+		"myBookings": "Mening bronlarim",
+		"bookingSuccess": "Bron muvaffaqiyatli"
+	},
+	"auth": {
+		"phone": "Telefon raqam",
+		"otp": "OTP",
+		"verify": "Tasdiqlash",
+		"auth": "Kirish",
+		"phoneDesc": "Telefon raqamingizni kiriting",
+		"otpDesc": "OTPni kiriting"
+	},
+	"venues": {
+		"perHour": "soatiga",
+		"date": "Sana",
+		"time": "Vaqt",
+		"duration": "Muddat",
+		"total": "Jami",
+		"bookNow": "Bron qilish"
+	},
+	"home": {
+		"perHour": "soatiga",
+		"book": "Bron qilish",
+		"search": "Ism bo'yicha qidirish"
+	},
+	"bookings": {
+		"cancel": "Bekor qilish",
+		"myBookings": "Mening bronlarim",
+		"noBookings": "Bronlar mavjud emas",
+		"error": "Xatolik yuz berdi"
+	}
+}

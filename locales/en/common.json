@@ -1,0 +1,37 @@
+{
+	"loading": "Loading...",
+	"pages": {
+		"home": "Home",
+		"venueDetails": "Venue Details",
+		"auth": "Login / Register",
+		"myBookings": "My Bookings",
+		"bookingSuccess": "Booking Success"
+	},
+	"auth": {
+		"phone": "Phone Number",
+		"otp": "OTP",
+		"verify": "Verify",
+		"auth": "Auth",
+		"phoneDesc": "Enter your phone number",
+		"otpDesc": "Enter your OTP"
+	},
+	"venues": {
+		"perHour": " per hour",
+		"date": "Date",
+		"time": "Time",
+		"duration": "Duration",
+		"total": "Total",
+		"bookNow": "Book Now"
+	},
+	"home": {
+		"perHour": " per hour",
+		"book": "Book",
+		"search": "Search by name"
+	},
+	"bookings": {
+		"cancel": "Cancel",
+		"myBookings": "My Bookings",
+		"noBookings": "You have no bookings yet",
+		"error": "Something went wrong"
+	}
+}
