@@ -1,16 +1,15 @@
-import { useTranslations } from 'next-intl'
-import { BookingsPage } from './BookingsPage'
+import { useTranslations } from "next-intl";
+import { HomePage } from "./HomePage";
 
 export default function Page() {
-	const t = useTranslations('')
+  const t = useTranslations("");
 
-	const strings = {
-		cancel: t('bookings.cancel'),
-		myBookings: t('bookings.myBookings'),
-		noBookings: t('bookings.noBookings'),
-		errorBookings: t('bookings.error'),
-		loading: t('loading')
-	}
+  const strings = {
+    perHour: t("home.perHour"),
+    book: t("home.book"),
+    loading: t("loading"),
+    search: t("home.search"),
+  };
 
-	return <BookingsPage strings={strings} />
+  return <HomePage strings={strings} />;
 }
